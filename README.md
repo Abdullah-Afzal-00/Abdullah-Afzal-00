@@ -1,7 +1,7 @@
 
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Abdullah Afzal</h1>
-<h4 align="center">a Web developer and a Computer Science student at PUCIT</div>
+<h4 align="center">a Software Engineer and a Computer Science student at PUCIT</div>
 <!--, see my <a href="https://github.com/1999AZZAR/1999AZZAR/blob/main/assets/doc/azzar_resume.pdf" target="_blank">resume</a> for more</h4>
 </div>
 
@@ -154,8 +154,7 @@
 </samp>
 </div>
 
-```js
-/*
+
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -202,8 +201,7 @@
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-*/
-```
+
 </details>
 <br/>
 </details> -->
@@ -214,10 +212,10 @@
 
 Here are some ideas to get you started: -->
 
-- 🌱 I’m Pursuing my Bachelor  in Computer Science and will graduate in 2024. 
-- 🔭 I’m currently working on Web Technologies
+- 🌱 I’m Pursuing my Bachelor's  in Computer Science and will graduate in 2024. 
+- 🔭 I’m currently exploring the field of AI 
 - 👯 I’m looking to collaborate on any cool stuff related to technology.
-- 💬 Ask me any teachnical stuff.
+- 💬 Ask me any technical.
 - 📫 How to reach me: mabdullahafzal09@gmail.com
 - 😄 Pronouns: You can call me Dude.
 - ⚡ Fun fact: I can help you with movie recommendations.
